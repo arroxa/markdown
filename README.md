@@ -153,6 +153,8 @@ Referência:
 `códigos` inline tem usa-se `backticks em torno`.
 ```
 `códigos` inline tem usa-se `backticks em torno`.
+***
+
 ```
   ` ` ` javascript
   function arroxa(a, b){
@@ -167,6 +169,7 @@ function arroxa(a, b){
 }
 arroxa(10, 10);
 ```
+***
 
 ```
   ` ` ` css
@@ -186,6 +189,7 @@ arroxa(10, 10);
   justify-content: center;
 }
 ```
+***
 
 ```
   ` ` ` html
@@ -209,6 +213,7 @@ arroxa(10, 10);
   </nav>
 </header>
 ```
+***
 
 ```
   ` ` `
