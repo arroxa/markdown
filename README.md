@@ -304,5 +304,5 @@ O bacana do Markdown é que também podemos usar `tags html`
 ***
 <br>
 
-#### Para saber mais
+#### Para saber mais sobre Markdown
 Link da [Documentação](https://daringfireball.net/projects/markdown/)
