@@ -1,7 +1,7 @@
 <p align="center"><img width="100px" src="https://github.com/arroxa/grunt/raw/master/src/img/icon_arroxa.png" alt="logo arroxa"></p>
 
 # Arroxa com Markdown
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](http://thompsonemerson.mit-license.org/)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](http://arroxa.mit-license.org/)
 
 # Headers
 
